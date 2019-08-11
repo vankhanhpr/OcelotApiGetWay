@@ -1,0 +1,14 @@
+E:\ASPMVC\OcelotGateway\UserApiBlancing\bin\Debug\netcoreapp2.1\UserApiBlancing.deps.json
+E:\ASPMVC\OcelotGateway\UserApiBlancing\bin\Debug\netcoreapp2.1\UserApiBlancing.runtimeconfig.json
+E:\ASPMVC\OcelotGateway\UserApiBlancing\bin\Debug\netcoreapp2.1\UserApiBlancing.runtimeconfig.dev.json
+E:\ASPMVC\OcelotGateway\UserApiBlancing\bin\Debug\netcoreapp2.1\UserApiBlancing.dll
+E:\ASPMVC\OcelotGateway\UserApiBlancing\bin\Debug\netcoreapp2.1\UserApiBlancing.pdb
+E:\ASPMVC\OcelotGateway\UserApiBlancing\obj\Debug\netcoreapp2.1\UserApiBlancing.csprojAssemblyReference.cache
+E:\ASPMVC\OcelotGateway\UserApiBlancing\obj\Debug\netcoreapp2.1\UserApiBlancing.csproj.CoreCompileInputs.cache
+E:\ASPMVC\OcelotGateway\UserApiBlancing\obj\Debug\netcoreapp2.1\UserApiBlancing.RazorAssemblyInfo.cache
+E:\ASPMVC\OcelotGateway\UserApiBlancing\obj\Debug\netcoreapp2.1\UserApiBlancing.RazorAssemblyInfo.cs
+E:\ASPMVC\OcelotGateway\UserApiBlancing\obj\Debug\netcoreapp2.1\UserApiBlancing.AssemblyInfoInputs.cache
+E:\ASPMVC\OcelotGateway\UserApiBlancing\obj\Debug\netcoreapp2.1\UserApiBlancing.AssemblyInfo.cs
+E:\ASPMVC\OcelotGateway\UserApiBlancing\obj\Debug\netcoreapp2.1\UserApiBlancing.RazorTargetAssemblyInfo.cache
+E:\ASPMVC\OcelotGateway\UserApiBlancing\obj\Debug\netcoreapp2.1\UserApiBlancing.dll
+E:\ASPMVC\OcelotGateway\UserApiBlancing\obj\Debug\netcoreapp2.1\UserApiBlancing.pdb

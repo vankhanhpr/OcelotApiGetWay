@@ -1,0 +1,14 @@
+E:\ASPMVC\OcelotGateway\AuthServer\bin\Debug\netcoreapp2.1\AuthServer.deps.json
+E:\ASPMVC\OcelotGateway\AuthServer\bin\Debug\netcoreapp2.1\AuthServer.runtimeconfig.json
+E:\ASPMVC\OcelotGateway\AuthServer\bin\Debug\netcoreapp2.1\AuthServer.runtimeconfig.dev.json
+E:\ASPMVC\OcelotGateway\AuthServer\bin\Debug\netcoreapp2.1\AuthServer.dll
+E:\ASPMVC\OcelotGateway\AuthServer\bin\Debug\netcoreapp2.1\AuthServer.pdb
+E:\ASPMVC\OcelotGateway\AuthServer\obj\Debug\netcoreapp2.1\AuthServer.csproj.CoreCompileInputs.cache
+E:\ASPMVC\OcelotGateway\AuthServer\obj\Debug\netcoreapp2.1\AuthServer.RazorAssemblyInfo.cache
+E:\ASPMVC\OcelotGateway\AuthServer\obj\Debug\netcoreapp2.1\AuthServer.RazorAssemblyInfo.cs
+E:\ASPMVC\OcelotGateway\AuthServer\obj\Debug\netcoreapp2.1\AuthServer.AssemblyInfoInputs.cache
+E:\ASPMVC\OcelotGateway\AuthServer\obj\Debug\netcoreapp2.1\AuthServer.AssemblyInfo.cs
+E:\ASPMVC\OcelotGateway\AuthServer\obj\Debug\netcoreapp2.1\AuthServer.RazorTargetAssemblyInfo.cache
+E:\ASPMVC\OcelotGateway\AuthServer\obj\Debug\netcoreapp2.1\AuthServer.dll
+E:\ASPMVC\OcelotGateway\AuthServer\obj\Debug\netcoreapp2.1\AuthServer.pdb
+E:\ASPMVC\OcelotGateway\AuthServer\obj\Debug\netcoreapp2.1\AuthServer.csprojAssemblyReference.cache

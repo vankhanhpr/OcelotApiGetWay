@@ -1,0 +1,14 @@
+E:\ASPMVC\OcelotGateway\User\bin\Debug\netcoreapp2.1\UserApi.deps.json
+E:\ASPMVC\OcelotGateway\User\bin\Debug\netcoreapp2.1\UserApi.runtimeconfig.json
+E:\ASPMVC\OcelotGateway\User\bin\Debug\netcoreapp2.1\UserApi.runtimeconfig.dev.json
+E:\ASPMVC\OcelotGateway\User\bin\Debug\netcoreapp2.1\UserApi.dll
+E:\ASPMVC\OcelotGateway\User\bin\Debug\netcoreapp2.1\UserApi.pdb
+E:\ASPMVC\OcelotGateway\User\obj\Debug\netcoreapp2.1\UserApi.csproj.CoreCompileInputs.cache
+E:\ASPMVC\OcelotGateway\User\obj\Debug\netcoreapp2.1\UserApi.RazorAssemblyInfo.cache
+E:\ASPMVC\OcelotGateway\User\obj\Debug\netcoreapp2.1\UserApi.RazorAssemblyInfo.cs
+E:\ASPMVC\OcelotGateway\User\obj\Debug\netcoreapp2.1\UserApi.AssemblyInfoInputs.cache
+E:\ASPMVC\OcelotGateway\User\obj\Debug\netcoreapp2.1\UserApi.AssemblyInfo.cs
+E:\ASPMVC\OcelotGateway\User\obj\Debug\netcoreapp2.1\UserApi.RazorTargetAssemblyInfo.cache
+E:\ASPMVC\OcelotGateway\User\obj\Debug\netcoreapp2.1\UserApi.dll
+E:\ASPMVC\OcelotGateway\User\obj\Debug\netcoreapp2.1\UserApi.pdb
+E:\ASPMVC\OcelotGateway\User\obj\Debug\netcoreapp2.1\UserApi.csprojAssemblyReference.cache

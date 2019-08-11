@@ -1,0 +1,14 @@
+E:\ASPMVC\OcelotGateway\CustomerAPIServices\bin\Debug\netcoreapp2.1\CustomerAPIServices.deps.json
+E:\ASPMVC\OcelotGateway\CustomerAPIServices\bin\Debug\netcoreapp2.1\CustomerAPIServices.runtimeconfig.json
+E:\ASPMVC\OcelotGateway\CustomerAPIServices\bin\Debug\netcoreapp2.1\CustomerAPIServices.runtimeconfig.dev.json
+E:\ASPMVC\OcelotGateway\CustomerAPIServices\bin\Debug\netcoreapp2.1\CustomerAPIServices.dll
+E:\ASPMVC\OcelotGateway\CustomerAPIServices\bin\Debug\netcoreapp2.1\CustomerAPIServices.pdb
+E:\ASPMVC\OcelotGateway\CustomerAPIServices\obj\Debug\netcoreapp2.1\CustomerAPIServices.csproj.CoreCompileInputs.cache
+E:\ASPMVC\OcelotGateway\CustomerAPIServices\obj\Debug\netcoreapp2.1\CustomerAPIServices.RazorAssemblyInfo.cache
+E:\ASPMVC\OcelotGateway\CustomerAPIServices\obj\Debug\netcoreapp2.1\CustomerAPIServices.RazorAssemblyInfo.cs
+E:\ASPMVC\OcelotGateway\CustomerAPIServices\obj\Debug\netcoreapp2.1\CustomerAPIServices.AssemblyInfoInputs.cache
+E:\ASPMVC\OcelotGateway\CustomerAPIServices\obj\Debug\netcoreapp2.1\CustomerAPIServices.AssemblyInfo.cs
+E:\ASPMVC\OcelotGateway\CustomerAPIServices\obj\Debug\netcoreapp2.1\CustomerAPIServices.RazorTargetAssemblyInfo.cache
+E:\ASPMVC\OcelotGateway\CustomerAPIServices\obj\Debug\netcoreapp2.1\CustomerAPIServices.dll
+E:\ASPMVC\OcelotGateway\CustomerAPIServices\obj\Debug\netcoreapp2.1\CustomerAPIServices.pdb
+E:\ASPMVC\OcelotGateway\CustomerAPIServices\obj\Debug\netcoreapp2.1\CustomerAPIServices.csprojAssemblyReference.cache
